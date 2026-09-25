@@ -68,7 +68,7 @@ Welcome to the ultimate **IPTV Player** repository! A powerful, fast, and elegan
 Watch the app in action with smooth navigation and instant streaming.
 
 <p align="center">
-  <a href="https://fv5-4.files.fm/thumb_video/ubks3pxe7vz2desp.mp4">
+  <a href="https://files.fm/f/ubks3pxe7vz2desp">
     🎬 <strong>▶ Watch the IPTV Player Demo Video</strong>
   </a>
 </p>
@@ -150,7 +150,7 @@ Interested in using this app or getting your custom license? Contact us directly
 شاهد التطبيق في بيئة عمل حقيقية وتعرف على سرعة التنقل والأداء.
 
 <p align="center">
-  <a href="https://fv5-4.files.fm/thumb_video/ubks3pxe7vz2desp.mp4">
+  <a href="https://files.fm/f/ubks3pxe7vz2desp">
     🎬 <strong>▶ مشاهدة فيديو استعراض تطبيق IPTV</strong>
   </a>
 </p>
