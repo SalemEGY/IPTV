@@ -63,17 +63,18 @@ Welcome to the ultimate **IPTV Player** repository! A powerful, fast, and elegan
   </tr>
 </table>
 
-### 🎥 Video Demo
+🎥 Video Demo
 
 Watch the app in action with smooth navigation and instant streaming.
 
-<p align="center">
-  <a href="https://files.fm/f/ubks3pxe7vz2desp">
-    🎬 <strong>▶ Watch the IPTV Player Demo Video</strong>
-  </a>
-</p>
+<div align="center">
 
-> **Note:** GitHub README files do not reliably render external `<video>` elements from third-party hosting services. The demo is therefore provided as a clickable video link.
+🎬 <strong>▶ Watch the IPTV Player Demo Video</strong>
+
+https://github.com/user-attachments/assets/cc095cd5-3232-4129-a2dc-39462f54cfe2
+
+</div>
+
 
 ### 📨 Contact & Subscription
 
@@ -148,15 +149,13 @@ Interested in using this app or getting your custom license? Contact us directly
 ### 🎥 استعراض حركي للتطبيق (فيديو دعائي)
 
 شاهد التطبيق في بيئة عمل حقيقية وتعرف على سرعة التنقل والأداء.
+<div align="center">
 
-<p align="center">
-  <a href="https://files.fm/f/ubks3pxe7vz2desp">
-    🎬 <strong>▶ مشاهدة فيديو استعراض تطبيق IPTV</strong>
-  </a>
-</p>
+🎬 <strong>▶ شاهد فيديو تجريبي عن التطبيق</strong>
 
-> **ملاحظة:** ملفات README على GitHub لا تضمن تشغيل عناصر `<video>` الخارجية من خدمات الاستضافة الأخرى، لذلك تم وضع الفيديو كرابط مباشر قابل للضغط.
+https://github.com/user-attachments/assets/cc095cd5-3232-4129-a2dc-39462f54cfe2
 
+</div>
 ### 📨 طلب الاشتراك والتواصل (📢 الإعلان)
 
 هل نال التطبيق إعجابك وتريد البدء في استخدامه فوراً أو الحصول على النسخة الخاصة بك؟
