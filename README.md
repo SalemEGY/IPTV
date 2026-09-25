@@ -22,12 +22,12 @@ Welcome to the ultimate **IPTV Player** repository! A powerful, fast, and elegan
 ### 📸 App Screenshots & Walkthrough
 <table width="100%">
   <tr>
-    <td width="50%"><b>1. Main Screen & Login</b><br><img src="https://github.com" width="100%"></td>
-    <td width="50%"><b>2. Smart Content Categorization</b><br><img src="https://github.com" width="100%"></td>
+    <td width="50%"><b>1. Main Screen & Login</b><br><img src=["https://github.com](https://github.com/SalemEGY/IPTV/blob/main/pics/Screenshot_20260925_032102.jpg)" width="100%"></td>
+    <td width="50%"><b>2. Smart Content Categorization</b><br><img src="[https://github.com](https://github.com/SalemEGY/IPTV/blob/main/pics/Screenshot_20260925_032341.jpg)" width="100%"></td>
   </tr>
   <tr>
-    <td width="50%"><b>3. High-Performance Video Player</b><br><img src="https://github.com" width="100%"></td>
-    <td width="50%"><b>4. Help & Support Center</b><br><img src="https://github.com" width="100%"></td>
+    <td width="50%"><b>3. High-Performance Video Player</b><br><img src="[https://github.com](https://github.com/SalemEGY/IPTV/blob/main/pics/Screenshot_20260925_032420.jpg)" width="100%"></td>
+    <td width="50%"><b>4. Help & Support Center</b><br><img src="[https://github.com](https://github.com/SalemEGY/IPTV/blob/main/pics/Screenshot_20260925_032459.jpg)" width="100%"></td>
   </tr>
 </table>
 
@@ -36,15 +36,15 @@ Welcome to the ultimate **IPTV Player** repository! A powerful, fast, and elegan
     <td colspan="2"><b>5. Advanced Settings & Theme Customization</b></td>
   </tr>
   <tr>
-    <td width="50%"><img src="https://github.com" width="100%"></td>
-    <td width="50%"><img src="https://github.com" width="100%"></td>
+    <td width="50%"><img src="[https://github.com](https://github.com/SalemEGY/IPTV/blob/main/pics/Screenshot_20260925_032543.jpg)" width="100%"></td>
+    <td width="50%"><img src="[https://github.com](https://github.com/SalemEGY/IPTV/blob/main/pics/Screenshot_20260925_032548.jpg)" width="100%"></td>
   </tr>
 </table>
 
 ### 🎥 Video Demo
 Watch the app in action with smooth navigation and instant streaming:
 <br>
-<video src="https://files.fm" controls="controls" style="max-width: 100%;" poster="https://github.com">
+<video src="https://fv5-4.files.fm/thumb_video/ubks3pxe7vz2desp.mp4" controls="controls" style="max-width: 100%;" poster="https://github.com">
   Your browser does not support the video tag.
 </video>
 
@@ -69,12 +69,12 @@ Interested in using this app or getting your custom license? Contact us directly
 ### 📸 نظرة حية من داخل التطبيق (معرض الصور)
 <table width="100%" dir="rtl">
   <tr>
-    <td width="50%"><b>1️⃣ الشاشة الرئيسية وإدارة الاشتراكات</b><br><img src="https://github.com" width="100%"></td>
-    <td width="50%"><b>2️⃣ تصنيف ذكي للمحتوى والقنوات</b><br><img src="https://github.com" width="100%"></td>
+    <td width="50%"><b>1️⃣ الشاشة الرئيسية وإدارة الاشتراكات</b><br><img src="[https://github.com](https://github.com/SalemEGY/IPTV/blob/main/pics/Screenshot_20260925_032102.jpg)" width="100%"></td>
+    <td width="50%"><b>2️⃣ تصنيف ذكي للمحتوى والقنوات</b><br><img src="[https://github.com](https://github.com/SalemEGY/IPTV/blob/main/pics/Screenshot_20260925_032341.jpg)" width="100%"></td>
   </tr>
   <tr>
-    <td width="50%"><b>3️⃣ مشغل الفيديو عالي الكفاءة</b><br><img src="https://github.com" width="100%"></td>
-    <td width="50%"><b>4️⃣ الدعم الفني والمساعدة</b><br><img src="https://github.com" width="100%"></td>
+    <td width="50%"><b>3️⃣ مشغل الفيديو عالي الكفاءة</b><br><img src="[https://github.com](https://github.com/SalemEGY/IPTV/blob/main/pics/Screenshot_20260925_032420.jpg)" width="100%"></td>
+    <td width="50%"><b>4️⃣ الدعم الفني والمساعدة</b><br><img src="[https://github.com](https://github.com/SalemEGY/IPTV/blob/main/pics/Screenshot_20260925_032459.jpg)" width="100%"></td>
   </tr>
 </table>
 
@@ -83,15 +83,15 @@ Interested in using this app or getting your custom license? Contact us directly
     <td colspan="2"><b>5️⃣ الإعدادات وتخصيص التجربة</b></td>
   </tr>
   <tr>
-    <td width="50%"><img src="https://github.com" width="100%"></td>
-    <td width="50%"><img src="https://github.com" width="100%"></td>
+    <td width="50%"><img src="[https://github.com](https://github.com/SalemEGY/IPTV/blob/main/pics/Screenshot_20260925_032543.jpg)5" width="100%"></td>
+    <td width="50%"><img src="[https://github.com](https://github.com/SalemEGY/IPTV/blob/main/pics/Screenshot_20260925_032548.jpg)" width="100%"></td>
   </tr>
 </table>
 
 ### 🎥 استعراض حركي للتطبيق (فيديو دعائي)
 شاهد التطبيق في بيئة عمل حقيقية وتعرف على سرعة التنقل والأداء الخرافي:
 <br>
-<video src="https://files.fm" controls="controls" style="max-width: 100%;" poster="https://github.com">
+<video src="https://fv5-4.files.fm/thumb_video/ubks3pxe7vz2desp.mp4" controls="controls" style="max-width: 100%;" poster="https://github.com">
   متصفحك لا يدعم تشغيل الفيديو المباشر.
 </video>
 
